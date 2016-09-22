@@ -5,15 +5,13 @@ module.exports = {
 		filename: "App.js"
 	},
 	module: {
-		loaders: [
-			{
+		loaders: [{
 				loader: 'babel',
 				query: {
 					presets: ['es2015']
 				},
 				test: /\.js$/,
 				exclude: /node_modules/
-			}
-		]
+			}]
 	}
 }
