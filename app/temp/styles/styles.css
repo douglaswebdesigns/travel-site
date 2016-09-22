@@ -1086,7 +1086,7 @@ a {
 @media ( min-width: 800px ) {
 
   .site-header {
-    background-color: rgba(47,85,114, .30);
+    background-color: rgba(#2f5572, .30);
   }
 }
 
