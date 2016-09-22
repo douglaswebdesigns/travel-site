@@ -68,7 +68,7 @@
 /* 0 */
 /***/ function(module, exports) {
 
-throw new Error("Module build failed: (SystemJS) ENOENT: no such file or directory, open 'c:\\Sites\\www.travel-site.dev\\c:\\Sites\\www.travel-site.dev\\node_modules\\babel-loader\\index.js'\n\tError: ENOENT: no such file or directory, open 'c:\\Sites\\www.travel-site.dev\\c:\\Sites\\www.travel-site.dev\\node_modules\\babel-loader\\index.js'\n\t    at Error (native)\n\tError loading c:/Sites/www.travel-site.dev/c:\\Sites\\www.travel-site.dev\\node_modules\\babel-loader\\index.js");
+throw new Error("Module build failed: (SystemJS) ENOENT: no such file or directory, open 'c:\\Sites\\www.travel-site.dev\\c:\\Sites\\node_modules\\babel-loader\\index.js'\n\tError: ENOENT: no such file or directory, open 'c:\\Sites\\www.travel-site.dev\\c:\\Sites\\node_modules\\babel-loader\\index.js'\n\t    at Error (native)\n\tError loading c:/Sites/www.travel-site.dev/c:\\Sites\\node_modules\\babel-loader\\index.js");
 
 /***/ }
 /******/ ]);
